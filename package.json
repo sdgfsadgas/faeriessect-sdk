@@ -1,0 +1,33 @@
+{
+  "name": "faeriessect",
+  "version": "1.0.0",
+  "description": "FaeriesSect Plugin SDK - Type definitions and runtime for plugin development",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "keywords": [
+    "faeriessect",
+    "plugin",
+    "sdk",
+    "extension",
+    "vscode-like"
+  ],
+  "author": {
+    "name": "芊灵希",
+    "email": "qing_er-lei_er@qq.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QianLingXi/faeriessect-sdk.git"
+  },
+  "homepage": "https://github.com/QianLingXi/faeriessect-sdk#readme",
+  "bugs": {
+    "url": "https://github.com/QianLingXi/faeriessect-sdk/issues"
+  }
+}
+
